@@ -1,0 +1,5 @@
+{"_default": {"1": {"name": "Template - email, phone", "email": "email", "phone_field": "phone"},
+  "2": {"name": "Template - date, text", "date_field": "date", "text_field": "text"},
+  "3": {"name": "Template - date, email", "date_field": "date", "email_field": "email"},
+  "4": {"name": "Template - email, date", "my_email": "email", "date_field": "date"}
+}}
